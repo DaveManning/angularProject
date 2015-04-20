@@ -1,0 +1,16 @@
+{
+    "name": "AngularProject",
+    "version": "0.0.1",
+  "description": "An application for testing Angularjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/???"
+  },
+  "author": "Dave Manning",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-util": "^2.2.20",
+    "gulp-webserver": "^0.8.1",
+    "gulp-coffee": "^1.4.3"
+}
+}
